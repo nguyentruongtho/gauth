@@ -1,0 +1,16 @@
+{
+    "name": "GAuth",
+    "description": "Your personal 2FA online manager.",
+    "website": "https://github.com/nguyentruongtho/gauth",
+    "repository": "https://github.com/nguyentruongtho/gauth",
+    "logo": "https://avatars2.githubusercontent.com/u/1457567?v=3&s=40",
+    "keywords": ["node", "2fa", "authentication"],
+    "env": {
+        "AUTH_USERNAME": {
+                "description": "Username"
+        },
+        "AUTH_PASSWORD": {
+                "description": "Password"
+        }
+    }
+}

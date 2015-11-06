@@ -6,6 +6,7 @@ GAuth
 [![Stories in Ready](https://badge.waffle.io/gbraad/gauth.png?label=ready&title=Ready)](https://waffle.io/gbraad/gauth)
 [![Code Climate](https://codeclimate.com/github/gbraad/html5-google-authenticator/badges/gpa.svg)](https://codeclimate.com/github/gbraad/html5-google-authenticator)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 A simple application for multi-factor authentication, written in HTML using
 jQuery Mobile, jsSHA, LocalStorage and Application Cache. It implements the 
